@@ -7,7 +7,6 @@ import java.io.*;
 
 /** The View class that contains all GUI elements
  * @author Arscene Rubayita
- * @version fall 2022, cosc 20403
  * All the objects are defined as protected so they are accesible only to classes in the same package
  */
 public class View extends JFrame {

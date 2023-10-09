@@ -3,7 +3,6 @@ import java.math.*;
 import java.util.*;
 /** The Model class for encoding ARM instructions and decoding binary and hexadecimal representations
  * @author Arscene Rubayita
- * @version fall 2022, cosc 20403
  * some ideas were taken and modified from
  * https://stackoverflow.com/questions/9246326/convert-hexadecimal-string-hex-to-a-binary-string
  */
